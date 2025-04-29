@@ -25,7 +25,7 @@ def plotar_convergencia(historico, melhor_fitness, tempo_exec):
 
 def plotar_sensores(individuo, titulo="Distribuição dos Sensores"):
     """
-    Plota a posição dos sensores e suas áreas de cobertura circulares.
+    Plota a  posição dos sensores e suas áreas de cobertura circulares.
     """
     sensores = [(individuo[i], individuo[i + 1]) for i in range(0, len(individuo), 2)]
 
