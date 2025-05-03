@@ -33,8 +33,6 @@ if __name__ == '__main__':
     plotar_convergencia(historico, melhor_fitness, tempo_exec)
     plotar_sensores(melhor_solucao, titulo="Melhor Distribuição de Sensores")
 
-
-
 # main.py
 ''' 
 from genetico import executar_ga
