@@ -25,26 +25,16 @@ from genetico import executar_ga
 from visualizacao import plotar_convergencia, plotar_sensores
 
 if __name__ == '__main__':
+    # Executa o algoritmo genético
     melhor_solucao, melhor_fitness, tempo_exec, historico = executar_ga()
 
+    # Exibe os resultados no terminal
     print(f"\nMelhor cobertura encontrada: {melhor_fitness:.4f}")
     print(f"Tempo de execução: {tempo_exec:.2f} segundos")
 
+    # Plota a curva de convergência
     plotar_convergencia(historico, melhor_fitness, tempo_exec)
-    plotar_sensores(melhor_solucao, titulo="Melhor Distribuição de Sensores")
 
-# main.py
-''' 
-from genetico import executar_ga
-from visualizacao import plotar_convergencia, plotar_sensores
-
-if __name__ == '__main__':
-    melhor_solucao, melhor_fitness, tempo_exec, historico = executar_ga()
-
-    print(f"\nMelhor cobertura encontrada: {melhor_fitness:.4f}")
-    print(f"Tempo de execução: {tempo_exec:.2f} segundos")
-
-    plotar_convergencia(historico, melhor_fitness, tempo_exec)
-    plotar_sensores(melhor_solucao, titulo="Melhor Distribuição de Sensores")
-
-'''
+    # Plota a melhor solução encontrada com informações
+    plotar_sensores(melhor_solucao, melhor_fitness=melhor_fitness, tempo_exec=tempo_exec,
+                    titulo="Melhor Distribuição de Sensores")
