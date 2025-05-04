@@ -1,3 +1,7 @@
+'''
+
+'''
+
 import random
 import numpy as np
 from config import AREA_LARGURA, AREA_ALTURA, NUM_SENSORES, RAIO_COBERTURA, DISTANCIA_MINIMA

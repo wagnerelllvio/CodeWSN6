@@ -1,5 +1,7 @@
 # testes/test_utils.py
+'''
 
+'''
 import pytest
 from utils import criar_individuo, avaliar_individuo, calcular_cobertura, penalidade_distancia_minima
 from config import NUM_SENSORES, AREA_LARGURA, AREA_ALTURA, DISTANCIA_MINIMA

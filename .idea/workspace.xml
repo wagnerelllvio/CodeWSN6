@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b4a753-55a4-4760-bb2e-4026c97d6d15" name="Changes" comment="Versoa 2.0 - Good">
-      <change afterPath="$PROJECT_DIR$/visualizacaoBkpGood.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualizacaobkp02Goood.py" afterDir="false" />
+    <list default="true" id="84b4a753-55a4-4760-bb2e-4026c97d6d15" name="Changes" comment="Versoa 4.0">
+      <change afterPath="$PROJECT_DIR$/MutacaoAdapativa-002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MutacaoAdapativa-003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MutacaoAdapativa-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MutacaoAdapativa-011Completa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/genetico.py" beforeDir="false" afterPath="$PROJECT_DIR$/genetico.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testes/test_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/testes/test_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/visualizacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualizacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,11 +118,20 @@
       <option name="project" value="LOCAL" />
       <updated>1746316019864</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Versoa 4.0">
+      <option name="closed" value="true" />
+      <created>1746317713872</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746317713872</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Versoa 2.0 - Good" />
-    <option name="LAST_COMMIT_MESSAGE" value="Versoa 2.0 - Good" />
+    <MESSAGE value="Versoa 4.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versoa 4.0" />
   </component>
 </project>

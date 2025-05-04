@@ -1,5 +1,7 @@
 # genetico.py
+'''
 
+'''
 import random
 from deap import base, creator, tools
 from multiprocessing import Pool, cpu_count

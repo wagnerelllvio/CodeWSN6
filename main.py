@@ -2,6 +2,8 @@
 '''
 Versao 1.0
 
+02/02/2025
+
 sensor_coverage_ga/
 ├── config.py                  # Parâmetros padrão do problema (dimensões, sensores, etc.)
 ├── genetico.py               # Lógica principal do Algoritmo Genético (GA)

@@ -1,3 +1,7 @@
+'''
+
+'''
+
 # Dimensões da área onde os sensores serão distribuídos
 AREA_LARGURA = 100
 AREA_ALTURA = 100
