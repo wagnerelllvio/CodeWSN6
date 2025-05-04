@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84b4a753-55a4-4760-bb2e-4026c97d6d15" name="Changes" comment="Versoa 2.0 - Good">
-      <change afterPath="$PROJECT_DIR$/visualizacao2Bkp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualizacaoBkpGood.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/visualizacaobkp02Goood.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/visualizacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/visualizacao.py" afterDir="false" />
     </list>
@@ -60,6 +60,11 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wagne\PycharmProjects\PythonProjectWSN6" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -99,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746314839400</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Versoa 2.0 - Good">
+      <option name="closed" value="true" />
+      <created>1746316019864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746316019864</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

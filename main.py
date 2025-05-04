@@ -22,7 +22,7 @@ sensor_coverage_ga/
 
 '''
 from genetico import executar_ga
-from visualizacao import plotar_convergencia, plotar_sensores
+from visualizacao import plotar_convergencia, plotar_sensores, plotar_grafo_conectividade
 
 if __name__ == '__main__':
     # Executa o algoritmo genético
@@ -38,3 +38,7 @@ if __name__ == '__main__':
     # Plota a melhor solução encontrada com informações
     plotar_sensores(melhor_solucao, melhor_fitness=melhor_fitness, tempo_exec=tempo_exec,
                     titulo="Melhor Distribuição de Sensores")
+
+    # Plota o grafico  plotar_grafo_conectividade
+    plotar_grafo_conectividade(melhor_solucao, tempo_exec=tempo_exec, melhor_fitness=melhor_fitness)
+
